@@ -1,0 +1,6 @@
+local QBCore = exports['qb-core']:GetCoreObject()
+RegisterNetEvent("cuditugla")
+AddEventHandler("cuditugla", function()
+    local xPlayer = QBCore.Functions.GetPlayer(source)
+    xPlayer.Functions.AddItem("cudi_tugla", math.random(Config.CudiTuglaSayi))
+end)
