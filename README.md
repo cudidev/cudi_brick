@@ -1,4 +1,4 @@
-# Cudi Tuğla Toplama Mesleği
+# Cudi Tuğla Toplama
 ## Basit Bir Düzen Dosyasına Sahiptir.
 ## ![image](https://github.com/user-attachments/assets/30a6d975-f0dc-4f4b-b16a-bfa86dc0a451)
 ## "cudi_tugla" İsimli Eşyayı, İstediğiniz Gibi Değiştiriniz.
