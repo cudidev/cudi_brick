@@ -6,4 +6,4 @@
 ## Gereklilikler.
 ## https://github.com/qbcore-framework/qb-core
 ## Geliştirici.
-## cudi
+## https://github.com/cudidev
