@@ -1,4 +1,4 @@
-# Tuğla Toplama Mesleği
+# Tuğla Toplama Desteği
 ## "cudi_tugla" İsimli Eşyayı, Kendi Eşyanıza Göre Düzenleyiniz.
 ## ![image](https://github.com/user-attachments/assets/ab26e0e4-3e51-4110-861d-b8ad5bbc0a59)
 ## Gereklilikler.
